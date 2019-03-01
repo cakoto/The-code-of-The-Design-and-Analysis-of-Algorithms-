@@ -1,3 +1,4 @@
+//埃氏筛法-常数优化
 const long long N = xxx;//xxx 可替换
 int vis[N];
 int prime[N];
